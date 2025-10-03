@@ -1,1 +1,1 @@
-Simple TRPG Pumpa
+Simple TRPG Pumpa for learning purposes
